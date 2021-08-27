@@ -108,7 +108,6 @@ height: 100%;
 }
 .food{
     display: flex;
-    pad
     justify-content: space-between;
 }
 .food-item{
@@ -227,13 +226,17 @@ height: 100%;
     color: #746D68;
     padding-bottom: 25px;
 } 
+/* --------------------------------------------- */
+.footer-inner{
+    margin-top: 80px;
+    background: #140A03;
+}
 .footer{
     padding: 50px;
-    background: #140A03;
     color: #FFFFFF;
 }
 .f-dec p{
-padding: 10px;
+    padding: 10px;
     font-size: 16px;
     line-height: 19px;
     font-weight: normal;
@@ -296,6 +299,6 @@ padding: 10px;
     border-top-color: transparent;
     border-left-color:transparent;
     border-right-color: transparent;
-    bottom: 318px;
+    bottom: 319px;
     left: -100px;
 }
